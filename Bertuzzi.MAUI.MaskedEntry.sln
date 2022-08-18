@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bertuzzi.MAUI.MaskedEntry", "Bertuzzi.MAUI.MaskedEntry\Bertuzzi.MAUI.MaskedEntry.csproj", "{1F6DF1BD-3F5B-437E-9E35-7D29B6746291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUIMaskedEntrySample", "MAUIMaskedEntrySample\MAUIMaskedEntrySample.csproj", "{334EA9CB-295E-4493-8F55-B4C79C6189A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6DF1BD-3F5B-437E-9E35-7D29B6746291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6DF1BD-3F5B-437E-9E35-7D29B6746291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6DF1BD-3F5B-437E-9E35-7D29B6746291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6DF1BD-3F5B-437E-9E35-7D29B6746291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334EA9CB-295E-4493-8F55-B4C79C6189A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334EA9CB-295E-4493-8F55-B4C79C6189A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334EA9CB-295E-4493-8F55-B4C79C6189A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{334EA9CB-295E-4493-8F55-B4C79C6189A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334EA9CB-295E-4493-8F55-B4C79C6189A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334EA9CB-295E-4493-8F55-B4C79C6189A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {635641CA-3360-435C-BAC6-DF9C27768BE7}
+	EndGlobalSection
+EndGlobal
